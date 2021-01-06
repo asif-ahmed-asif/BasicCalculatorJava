@@ -1,0 +1,7 @@
+The first number is (x): 4.0
+The second number is (y): 5.0
+The Summation is: 9.0
+The Multiplication is: 20.0
+Log of first number is: 1.3862943611198906
+Mod is: 1.0
+Exp of first number is: 54.598150033144236
